@@ -13,3 +13,4 @@ O controle de versionamento feito via Git tem muitas vantagens assim o fazendo s
 
 5. Qual a importância da utilização do controle de versionamento no desenvolvimento de um software?
 A importância da utilização do versionamento de software é que traz uma organização do que se está sendo alterado. Traz mais segurança para o programador e para o usuário final do software, pois assim pode se identificar bug e corrigi-los facilmente. E também atualizar de forma mais segura o software que exigem uma segurança mais alta.
+
