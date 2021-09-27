@@ -5,4 +5,8 @@ Git é um sistema que pode ser acessado via web pelo Github, ele é utilizado pa
 2 O que é versionamento de software?
 O versionamento de software é uma metodologia e um controle das atualizações e mudanças feitas em softwares, adotadas por profissionais da área de Ti, sendo ele executado na maioria das vezes por meio numérico assim conseguindo saber o que foi mudado comparando uma versão posterior com a anterior. Também no versionamento o cliente ou o consumidor final que irá utilizar o software pode identificar qual a versão instalada e utilizada nas suas maquinas assim podendo fazer um controle, se necessário. Podendo ele atualizar para deixar seu software mais seguro e com funcionalidades novas que podem ser implementadas a cada versão.
 
+3 Por que utilizar o Git como controle de versionamento?
 
+
+4. Quais as vantagens do Git?
+O controle de versionamento feito via Git tem muitas vantagens assim o fazendo ser uma das melhores plataformas e métodos de versionamento. Com o Git podemos ter uma programação descentralizada assim cada computador pode ter uma cópia da versão e pode alterar de sua forma. O Git não deixa os arquivos serem alterados sem que haja uma consulta do criador do repositório. No Git também podemos compartilhar e mostrar repositórios dos outros dentro do nosso próprio perfil. E se você quer dar alguma ajuda financeira ao criador do repositório por algum motivo, você faz diretamente pelo próprio Git.
